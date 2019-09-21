@@ -4,7 +4,7 @@
 npm install  
 
 # Run the unit test cases
-#npm test test/run.testcases.js
+npm run test-cover
 
 #install the cli globally
 
