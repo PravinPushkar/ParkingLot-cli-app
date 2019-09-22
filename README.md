@@ -2,7 +2,7 @@ Running the cli app
 ---
 
 ```sh
-cd ParkingLot-ali-app
+cd ParkingLot-cli-app
 
 #install dependencies and install the cli
 npm run start
